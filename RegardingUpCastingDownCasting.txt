@@ -1,0 +1,7 @@
+Upcasting and Downcasting in Java
+A process of converting one data type to another is known as Typecasting and Upcasting and Downcasting is the type of object typecasting. 
+In Java, the object can also be typecasted like the datatypes. 
+Parent and Child objects are two types of objects. 
+So, there are two types of typecasting possible for an object, i.e., Parent to Child and Child to Parent or can say Upcasting and Downcasting.
+
+Typecasting is used to ensure whether variables are correctly processed by a function or not. In Upcasting and Downcasting, we typecast a child object to a parent object and a parent object to a child object simultaneously. We can perform Upcasting implicitly or explicitly, but downcasting cannot be implicitly possible.
